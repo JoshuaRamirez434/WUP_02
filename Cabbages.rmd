@@ -53,6 +53,12 @@ The boxplot shows that the cultivation method c52 generally has more Vit C that 
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+favstats(momheight~Sex,data=ucdavis1)
+```
+the numerical summary shows that c52 is larger than c39.
+
+
 ## Inferential Results
 
 ```{r}
