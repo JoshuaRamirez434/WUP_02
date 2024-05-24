@@ -73,5 +73,5 @@ p-value is so small we would reject the
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
-The orgignal question was which cultivation metho results more Vitc was Vitc it was founs to be c52.
+The orgignal question was which cultivation metho results more Vitc was VitC it was founs to be c52.
 
